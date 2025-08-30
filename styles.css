@@ -6,6 +6,8 @@ body{
     
 }
 
+/* Header */
+
 .Oliver_Holmberg_text{
     font-size: 1.8rem;
 }
@@ -49,8 +51,7 @@ a {
 
 
 
-
-
+/* Introduction */
 
 main{
     margin: 0px;
@@ -96,11 +97,12 @@ span{
 
 
 
-
+/* Skills */
 
 .socials_div{
     border-bottom:  solid 0.5rem #F0F0F0;
-    padding-top: 5rem;
+    padding-top: 11rem;
+    
 }
 
 .socials{ 
@@ -110,6 +112,7 @@ span{
     gap: 2rem; 
     list-style: none;
     margin-left:5rem;
+    
 
 }
 .socialpictures{
@@ -125,30 +128,44 @@ span{
     font-size: 1.6rem;
 }
 
-.skills{
-    padding-left: 4rem;
-    padding-right: 4rem;
-    border-bottom: solid 0.5rem #F0F0F0;
-}
 
 .MailButton:hover{
     cursor:pointer;
     text-decoration:underline;
 }
 
-.Skilltext{
-    width: 90rem;
+
+/* Skills */
+
+.skills{
+    padding-left: 5rem;
+    padding-right: 5rem;
+    margin-top: 5rem;
+    border-bottom: solid 0.5rem #F0F0F0;
+    margin-bottom: 5rem;
 }
 
 .SkillsetSpan{
     font-weight:bold;
+    font-size: 2rem;
     margin-left: 0;
+    
 }
+
+
+.Skilltext{
+    width: 90rem;
+}
+
+
 
 .SkillsetUl{
     list-style:square;
+    margin-bottom:4rem;
     
 }
+
+/* Projects */
 
 
 
