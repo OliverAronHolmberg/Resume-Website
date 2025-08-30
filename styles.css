@@ -103,7 +103,7 @@ span{
 }
 
 .socials{ 
-    
+    align-items:center;
     padding-left: 0px;
     display: flex;
     gap: 2rem; 
@@ -115,6 +115,23 @@ span{
     width: 3rem;
     height: auto;
 }
+
+.MailButton{
+    background: none;
+    border: none;
+    color: #F0F0F0;
+    text-decoration:none;
+    font-size: 1.6rem;
+}
+
+.MailButton:hover{
+    cursor:pointer;
+    text-decoration:underline;
+}
+
+
+
+
 
 
 
