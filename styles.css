@@ -1,5 +1,5 @@
 body{
-    background-color: #FFF5F2;
+    background-color: #1A1A1A;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 1.3rem;
     margin: 0px
@@ -9,11 +9,14 @@ body{
 
 .LogIn{
     padding-left: 4rem;
+    margin-right: 5rem;
 }
 
 
 header {
-    background-color: #568F87;
+    
+    background-color: #1A1A1A;
+    font-size: 1.5rem;
     padding: 20px;
     justify-content: space-between;
     list-style: None;
@@ -21,7 +24,7 @@ header {
     gap: 1rem;
     align-items:center;
     font-weight: Bold;
-    border-bottom: 0.5rem solid #064232;
+    border-bottom: 0.5rem solid #F0F0F0;
     
 }
 
@@ -36,5 +39,82 @@ header {
 
 a {
     text-decoration: none;
-    color: #064232;
+    color: #F0F0F0;
 }
+
+
+
+
+
+
+
+
+main{
+    margin: 0px;
+    margin-top: 5rem;
+    color: #F0F0F0;
+}
+
+section{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    align-items: center;
+    gap: 1rem;
+}
+
+span{
+   display:flex;
+   align-items:normal;
+   margin-left: 5rem;
+}
+
+
+.introcontainer{
+    margin-top: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.introtext{
+    width: 19rem;
+    height: 10rem;
+    margin-left: 5rem;
+}
+
+.CatIMG_div{
+    margin-right: 20rem;
+}
+
+
+.CatIMG{
+    width: 21rem;
+    border: solid 0.5rem black;
+    border-radius: 34rem;
+    
+}
+
+
+
+
+
+.socials_div{
+    border-bottom:  solid 0.5rem #F0F0F0;
+}
+
+.socials{ 
+    padding-bottom: 5rem;
+    margin-left: 5rem;
+    display: flex;
+    gap: 2rem; 
+    list-style: none;
+
+}
+.socialpictures{
+    width: 3rem;
+    height: auto;
+}
+
+
+
+
+
