@@ -124,12 +124,30 @@ span{
     font-size: 1.6rem;
 }
 
+.skills{
+    padding-left: 4rem;
+    padding-right: 4rem;
+    border-bottom: solid 0.5rem #F0F0F0;
+}
+
 .MailButton:hover{
     cursor:pointer;
     text-decoration:underline;
 }
 
+.Skilltext{
+    width: 90rem;
+}
 
+.SkillsetSpan{
+    font-weight:bold;
+    margin-left: 0;
+}
+
+.SkillsetUl{
+    list-style:square;
+    
+}
 
 
 
