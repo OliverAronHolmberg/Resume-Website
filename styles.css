@@ -1,6 +1,6 @@
 body{
     background-color: #1A1A1A;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     font-size: 1.5rem;
     margin: 0px
     
@@ -83,7 +83,7 @@ span{
 }
 
 .CatIMG_div{
-    margin-right: 20rem;
+    margin-right: 5rem;
 }
 
 
