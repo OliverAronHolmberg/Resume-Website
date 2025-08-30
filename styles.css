@@ -6,17 +6,17 @@ body{
     
 }
 
-
-.LogIn{
-    padding-left: 4rem;
-    margin-right: 5rem;
+.Oliver_Holmberg_text{
+    font-size: 1.8rem;
 }
+
+
 
 
 header {
     
     background-color: #1A1A1A;
-    font-size: 1.6rem;
+    font-size: 1.3rem;
     padding-bottom: 10px;
     padding-top: 10px;
     justify-content: space-between;
@@ -34,6 +34,7 @@ header {
     list-style: None;
     display: flex;
     gap: 3rem;
+    margin-right: 5rem;
     
 }
 
